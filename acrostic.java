@@ -11,7 +11,7 @@ public class acrostic {
             String value = scan.nextLine();
             if(value.equals("")){
                 break;
-                completed
+                
             strings.add(value.charAt(0));
             }
         }
